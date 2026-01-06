@@ -16,3 +16,6 @@ The following specific objectives were established:
 -  Quantify the Sleep Deprivation Gap: Calculate the percentage of the population experiencing a "Sleep Deficit" and visualize the overall prevalence of sleep disorders within the dataset.
 
 -  Develop an Interactive Visual Narrative: Build a centralized dashboard to transform raw health data into intuitive charts, making complex trends in sleep hygiene accessible to non-technical stakeholders.
+
+## Data Source
+The dataset used for this analysis was sourced from Kaggle. It is a synthetic (mock) CSV dataset specifically designed for educational purposes. While the data does not represent a real-world population, it is structured to simulate realistic health trends and sleep hygiene patterns.
