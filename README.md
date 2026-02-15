@@ -89,4 +89,4 @@ This stage ensured that insights were data-driven and not assumption-based and w
  - Risk Assessment: What percentage of the total surveyed population falls below the healthy threshold of 7 hours of sleep?
 
 
-[Check out the SQL code here](Sql codes/main_folder/main_file.md)
+[SQL Codes](SQL%20Codes.sql)
