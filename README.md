@@ -172,9 +172,11 @@ This project successfully demonstrates the power of Excel for Data Cleaning, SQL
 
 
 ## References
-[View my Tableau Dashboard Here](https://public.tableau.com/app/profile/mary.jane.opara/viz/SleepDataTableauDAshboard/Dashboard1?publish=yes)
-[View my Excel Dashboard Here](#Fig.2-Visualization-done-using-Tableau)
-[Find the Link to the Dataset Here](https://www.kaggle.com/datasets/minahilfatima12328/lifestyle-and-sleep-patterns)
+[View my Tableau Dashboard Here](https://public.tableau.com/app/profile/mary.jane.opara/viz/SleepDataTableauDAshboard/Dashboard1?publish=yes).  
+
+[View my Excel Dashboard Here](#Fig.2-Visualization-done-using-Tableau).  
+
+[Find the Link to the Dataset Here](https://www.kaggle.com/datasets/minahilfatima12328/lifestyle-and-sleep-patterns).
 
 
 
